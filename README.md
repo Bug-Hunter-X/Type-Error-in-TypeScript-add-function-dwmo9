@@ -1,0 +1,2 @@
+# Type Error in TypeScript add function
+This code demonstrates a type error in TypeScript caused by passing the wrong type of arguments to a function. The add function expects two numbers but is called with a string and a number. The type error will occur when the TypeScript compiler tries to infer the type of the result variable.
